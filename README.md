@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello There!
 
-<!--
-**Neohertz/NeoHertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 21 Year Old Developer from the United States 🇺🇸
 
-Here are some ideas to get you started:
+I spent most of my development career as a full-stack Luau developer on Roblox. I now spend time building and maintianing web-based systems to improve employee efficiency for small buisiness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I still contribute the OS projects within the Roblox developer community in my spare time.
+
+-----
+
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neohertz&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neohertz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
