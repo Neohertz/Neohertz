@@ -2,7 +2,7 @@
 	Neohertz (Ryan)
 </h3>
 <p align="center" width="100%">
-Typescript evangelist and professional procrastinator. <p/>
+Typescript evangelist.<p/>
 <p align="center" width="100%">
 <img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=cmake"/> 
