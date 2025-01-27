@@ -25,6 +25,7 @@ Typescript evangelist.<p/>
 <img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=cs"/>
 <img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=zig"/>
 <p/>
 
 <p align="center" width="100%">
